@@ -1,6 +1,4 @@
-fdsaffds
-fdsafdsa
-fdsa#!/usr/bin/ruby
+#!/usr/bin/ruby
 class Duration
   %w[ days hours minutes seconds ].each do |name|
     attr_accessor name
