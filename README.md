@@ -2,5 +2,3 @@ study
 ==============
 
 study 
-
-[test](test)
