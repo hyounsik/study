@@ -1,5 +1,4 @@
 study
 ==============
 
-study - c5
-  
+study - c6  
